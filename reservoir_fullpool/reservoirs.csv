@@ -1,0 +1,45 @@
+slug,name,state,river,operator,full_pool_ft,capacity_af,live_data_feed,usgs_site,cdec_id
+lake-travis,Lake Travis,TX,Colorado River,LCRA (Mansfield Dam),681,,,,
+lake-buchanan,Lake Buchanan,TX,Colorado River,LCRA (Buchanan Dam),1020.5,,usgs,08148000,
+medina-lake,Medina Lake,TX,Medina River,Bexar-Medina-Atascosa Counties WCID,1064.2,,usgs,08179500,
+canyon-lake,Canyon Lake,TX,Guadalupe River,USACE (Canyon Dam),909,,usgs,08167700,
+lake-amistad,Amistad Reservoir,TX,Rio Grande,IBWC / USBR (Amistad Dam),1117,,,,
+falcon-lake,Falcon Reservoir,TX,Rio Grande,IBWC (Falcon Dam),301.2,,,,
+lake-belton,Lake Belton,TX,Leon River,USACE (Belton Dam),594,,usgs,08102000,
+lake-georgetown,Lake Georgetown,TX,North Fork San Gabriel River,USACE (Georgetown Dam),791,,,,
+lake-somerville,Lake Somerville,TX,Yegua Creek,USACE (Somerville Dam),238,160000,usgs,08109900,
+lake-brownwood,Lake Brownwood,TX,Pecan Bayou,Brown County Water Improvement District,1425,,,,
+lake-fork,Lake Fork Reservoir,TX,Sabine River (Lake Fork Creek),Sabine River Authority,403,,usgs,08018800,
+lake-lbj,Lake LBJ,TX,Colorado River,LCRA (Wirtz Dam),825,,,,
+lake-whitney,Lake Whitney,TX,Brazos River,USACE (Whitney Dam),533,,usgs,08092500,
+oh-ivie-lake,O.H. Ivie Reservoir,TX,Colorado River (Concho),Colorado River Municipal Water District,1551.5,,,,
+lake-mead,Lake Mead,NV,Colorado River,USBR (Hoover Dam),1229,28945000,usbr,,
+lake-powell,Lake Powell,UT,Colorado River,USBR (Glen Canyon Dam),3700,,usgs,09379900,
+lake-mohave,Lake Mohave,NV,Colorado River,USBR (Davis Dam),647,1810000,usbr,,
+lake-havasu,Lake Havasu,AZ,Colorado River,USBR (Parker Dam),450,648000,usbr,,
+lake-shasta,Shasta Lake,CA,Sacramento River,USBR (Shasta Dam),1067,4552000,cdec,,SHA
+lake-oroville,Lake Oroville,CA,Feather River,CA DWR (Oroville Dam),901,3537577,cdec,,ORO
+lake-berryessa,Lake Berryessa,CA,Putah Creek,USBR / Solano Project (Monticello Dam),440,1522777,cdec,,BER
+folsom-lake,Folsom Lake,CA,American River,USBR (Folsom Dam),466,977000,cdec,,FOL
+lake-lanier,Lake Lanier,GA,Chattahoochee River,USACE Mobile (Buford Dam),1071,,,,
+lake-allatoona,Lake Allatoona,GA,Etowah River,USACE (Allatoona Dam),840,,usgs,02393500,
+lake-texoma,Lake Texoma,OK,Red River,USACE Tulsa (Denison Dam),617,,,,
+lake-eufaula-ok,Lake Eufaula,OK,Canadian River,USACE Tulsa (Eufaula Dam),585,,,,
+lake-oologah,Lake Oologah,OK,Verdigris River,USACE Tulsa (Oologah Dam),638,,,,
+altus-lugert-lake,Lake Altus-Lugert,OK,North Fork Red River,USACE (Altus Dam),1559,,,,
+wappapello-lake,Wappapello Lake,MO,St. Francis River,USACE (Wappapello Dam),359.7,,,,
+kerr-lake,Kerr Lake (Buggs Island),VA,Roanoke River,USACE Wilmington (John H. Kerr Dam),320,,,,
+lake-jordan-nc,Jordan Lake,NC,Haw River / New Hope Creek,USACE Wilmington (Jordan Dam),240,,,,
+high-rock-lake,High Rock Lake,NC,Yadkin River,Alcoa / Cube Hydro (High Rock Dam),655,,,,
+kentucky-lake,Kentucky Lake,KY,Tennessee River,TVA (Kentucky Dam),359,,,,
+nolin-river-lake,Nolin River Lake,KY,Nolin River,USACE Louisville (Nolin Dam),515,,usgs,03310900,
+lewis-smith-lake,Lewis Smith Lake,AL,Sipsey Fork (Black Warrior River),TVA / Alabama Power,510,,,,
+toledo-bend,Toledo Bend Reservoir,TX,Sabine River,Sabine River Authority (Toledo Bend Dam),172,,,,
+pine-flat-lake,Pine Flat Lake,CA,Kings River,USACE (Pine Flat Dam),970,1000000,cdec,,PNF
+lake-isabella,Lake Isabella,CA,Kern River,USACE (Isabella Dam),2573,568075,cdec,,ISB
+millerton-lake,Millerton Lake,CA,San Joaquin River,USBR (Friant Dam),580,520528,cdec,,MIL
+new-melones-lake,New Melones Lake,CA,Stanislaus River,USBR (New Melones Dam),1088,2400000,cdec,,NML
+don-pedro-lake,Don Pedro Reservoir,CA,Tuolumne River,Turlock/Modesto Irrigation District (Don Pedro Dam),830,2030000,cdec,,DNP
+san-luis-reservoir,San Luis Reservoir,CA,Offstream (California Aqueduct),USBR / CA DWR (San Luis Dam),543,2041000,cdec,,SNL
+lake-cachuma,Cachuma Lake,CA,Santa Ynez River,USBR (Bradbury Dam),753,193305,cdec,,CCH
+lake-casitas,Casitas Reservoir,CA,Coyote Creek (offstream),Casitas Municipal Water District,567.5,254000,cdec,,CAS

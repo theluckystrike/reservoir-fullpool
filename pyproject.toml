@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "reservoir-fullpool"
+version = "0.1.0"
+description = "Full-pool elevations, operators and USGS/CDEC gauge IDs for 44 US reservoirs, with a feet-from-full helper."
+readme = "README.md"
+license = {text = "MIT (code); CC0 (data)"}
+requires-python = ">=3.9"
+
+[project.urls]
+Homepage = "https://lakelevelnow.com/lakes/"
+Source = "https://github.com/theluckystrike/reservoir-fullpool"
+
+[tool.setuptools.package-data]
+reservoir_fullpool = ["reservoirs.csv"]

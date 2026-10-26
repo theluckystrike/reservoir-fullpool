@@ -1,0 +1,20 @@
+package:
+  name: reservoir-fullpool
+  version: 0.1.0
+source:
+  path: ..
+build:
+  noarch: python
+  number: 0
+  script: python -m pip install . --no-deps -vv
+requirements:
+  host: [python >=3.9, pip, setuptools]
+  run: [python >=3.9]
+test:
+  imports: [reservoir_fullpool]
+about:
+  home: https://lakelevelnow.com/lakes/
+  doc_url: https://github.com/theluckystrike/reservoir-fullpool#readme
+  dev_url: https://github.com/theluckystrike/reservoir-fullpool
+  license: MIT AND CC0-1.0
+  summary: Full-pool elevations, operators and USGS/CDEC gauge IDs for 44 US reservoirs
